@@ -84,7 +84,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'fifa',
         'USER': 'piotr',
-        'PASSWORD': 'PASSWORD',
+        'PASSWORD': '2050',
         'HOST': 'localhost'
     }
 }
